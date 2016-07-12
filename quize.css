@@ -1,0 +1,94 @@
+
+* {
+	font-family: sans-serif;
+	font-style: bold;
+}
+body {
+	padding: 10px;
+}
+p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+/*section 1*/
+
+.section1 {
+	border-bottom: 1px dotted gray;
+}
+
+/*section2*/
+
+.section2 img {
+	display: block;
+	height: 30%;
+	width: 40%;
+	/*display: inline-block;*/
+	margin-right: auto;
+	margin-left: auto;
+	/*border: 1px solid black;*/
+	padding-top: 10px;
+}
+
+h2 {
+	text-align: center;
+} 
+
+.discription {
+	font-size: 1.2em;
+	text-align: justify;
+	font-weight: 400;
+}
+ .lable {
+ 	font-weight: 400;
+ 	color: yellow;
+ 	background-color: gray;
+ 	width: auto;
+ 	line-height: 2em;
+ 	
+ }
+
+.box {
+	border: 1px solid lightblue;
+	width: 30%;
+	height: 30%;
+	display: inline-block;
+	float: left;
+	margin: 5px;
+
+}
+.section2 p {
+	/*padding: auto, 5px, auto, 5px;*/
+     /*text-align: left;*/
+}
+
+/*section 3*/
+
+li {
+	text-decoration: none;
+}
+ .measurments {
+ 	padding-left: 20px;
+ 	line-height: 1;
+ 	font-weight: 600;
+ 	margin-bottom: 5px;
+ 	margin-top: 5px;
+
+ }
+
+ .small {
+ 	padding-left: 0;
+ }
+ .big {
+ 	font-size: 1.5em;
+ 	text-align: left;
+ 	margin-bottom: 0.5em;
+ 	line-height: 0.5;
+ 	margin-top: 5px;
+ }
+ footer p {
+ 	font-size: 0.75em;
+ 	margin-bottom: 5px;
+ 	margin-top: 5px;
+ }
