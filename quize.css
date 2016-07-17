@@ -23,11 +23,12 @@ h1 {
  	font-weight: 400;
  	margin-bottom: 10px;
  	margin-top: 10px;
+ 	height: 0.5em;
  }
 
 /*section 1*/
 
-.section1 {
+.Top {
 	border: 1px dotted lightgray;
 }
 
@@ -57,8 +58,8 @@ img {
  	width: auto;
  	line-height: 2em;
  	padding-left: 10px;
- 	
- 	
+
+
  }
 
 article {
@@ -74,12 +75,12 @@ article {
 /*section 3*/
 
 
- div p {
+ .price {
  	padding-left: 20px;
- 	height: 1;
+ 	height: 0.5em;
  	font-weight: 600;
- 	margin-top: 5px;
- 	margin-bottom: auto;
+ 	/*margin-top: 5px;*/
+ 	/*margin-bottom: auto;*/
 
  }
 
